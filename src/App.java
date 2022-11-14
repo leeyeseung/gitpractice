@@ -6,6 +6,7 @@ public class App {
 		System.out.println("실행1");
 		System.out.println("실행6");
 		System.out.println("실행7");
+		System.out.println("실행8");
 	}
 
 }
